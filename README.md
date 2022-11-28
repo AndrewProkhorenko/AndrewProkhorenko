@@ -9,7 +9,7 @@ By day I work for [@shiphero](https://github.com/shiphero) - a leading shipping 
 By night I run [@logoidev](https://github.com/logoidev) - a digital design agency. 🇺🇦 🇨🇦
 
 <a href="https://logoi.dev/v?source=ghqrv">
-    <img width="333" alt="QR logo" src="/images/qr-v.svg" />
+    <img width="200" alt="QR logo" src="/images/qr-v.svg" />
 </a>
 
 #### [Full Resume](https://www.logoi.dev/resumes/v.pdf)  
