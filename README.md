@@ -5,12 +5,15 @@
 I'm a Senior Software Engineer and Digital Designer sepecialising in Web Development,  
 Front-End, UI/UX, and Augmented and Virtual Reality applications.
 
-By day I work for [@shiphero](https://github.com/shiphero) - a leading shipping and warehouse management SaaS company. 🇺🇸 🇨🇦  
-By night I run [@logoidev](https://github.com/logoidev) - a digital design agency. 🇺🇦 🇨🇦
+Currently I work for [@shiphero](https://github.com/shiphero) - a leading shipping and warehouse management SaaS company. 🇺🇸 🇨🇦  
+I also run [@logoidev](https://github.com/logoidev) - a digital design agency. 🇺🇦 🇨🇦
 
 <a href="https://logoi.dev/v?source=ghqrv">
-    <img width="200" alt="QR logo" src="/images/qr-v.svg" />
+    <img width="128" alt="QR logo" src="/images/qr-v.svg" />
 </a>
+<br><br>  
+
+Previously [@artjoker](https://github.com/artjoker-software), [@onmap](https://github.com/onmap) and [@inceptionxr](https://github.com/inceptionxr)
 
 #### [Full Resume](https://www.logoi.dev/resumes/v.pdf)  
 
