@@ -1,6 +1,8 @@
 <a href="https://logoi.dev?source=ghb">
-    <img width="333" alt="Logo Banner" src="/images/banner.png" />
+    <img width="333" alt="Logo Banner" src="/images/banner-transparent.png" />
 </a>
+<br />
+<br />
 
 I'm a Senior Software Engineer and Digital Designer sepecialising in Web Development,  
 Front-End, UI/UX, and Augmented and Virtual Reality applications.
