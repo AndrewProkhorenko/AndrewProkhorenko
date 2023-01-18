@@ -7,7 +7,7 @@
 I'm an Apprentice Software Engineer learning Web Development and Software Engineering [@logoidev](https://github.com/logoidev).
 
 <a href="https://logoi.dev/ap?source=ghqrv">
-    <img width="128" alt="QR logo" src="/images/qr-ap.svg" />
+    <img width="128" alt="QR logo" src="/images/qr-ap.png" />
 </a>
 <br><br>  
 
